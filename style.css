@@ -1,0 +1,76 @@
+body {
+    text-align: center !important;
+}
+
+#start img {
+    padding-bottom: 25px;
+    height: 230px;
+    width: 355px;
+}
+
+#start {
+    background: linear-gradient(#ffff4d 0%, #ff6600 100%);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+
+a:hover {
+    color: darkorange
+}
+
+#start h1 {
+    font-weight: bold;
+}
+
+.Ly {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Some {
+    font-size: 40px;
+}
+
+.name {
+    font-size: 50px;
+}
+
+#images p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#images img {
+    width: 400px;
+    padding-bottom: 25px
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 0px;
+    cursor: pointer;
+    z-index: 10;
+    width: 100%;
+    background: white;
+    margin-top: 0px;
+}
+
+.links {
+    display: inline;
+    font-size: 1px;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+
+
+#credits p {font-weight: bold;
+            font-size: 30px;}
+
+#credits p:hover{color:crimson;}
